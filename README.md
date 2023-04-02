@@ -13,8 +13,9 @@
 * [Laravel Nova](https://nova.laravel.com)
 * [Nova Packages](https://novapackages.com/)
 
-# UI
+# FrontEnd
 
+* [AlpineJS](https://alpinejs.dev/)
 * [Font Awesome](https://fontawesome.com/)
 * [Flowbite](https://flowbite.com/)
 * [Headless UI](https://headlessui.com/)
