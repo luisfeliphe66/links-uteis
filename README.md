@@ -10,6 +10,7 @@
 
 # UI
 
+* [Font Awesome](https://fontawesome.com/)
 * [Flowbite](https://flowbite.com/)
 * [Headless UI](https://headlessui.com/)
 * [Radix-ui](https://www.radix-ui.com/)
