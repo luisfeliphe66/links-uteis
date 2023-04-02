@@ -31,3 +31,4 @@
 * [Tailwind CSS](https://tailwindcss.com/)
 * [Tailwind Elements](https://tailwind-elements.com/)
 * [CoreUI](https://coreui.io/)
+* [AdminLTE](https://adminlte.io/)
