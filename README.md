@@ -5,6 +5,7 @@
 * [Composer](https://getcomposer.org/)
 * [Git](https://git-scm.com/)
 * [Repman](https://repman.io/)
+* [Bugsnag](https://bugsnag.com/)
 
 # Laravel
 
