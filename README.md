@@ -1,6 +1,7 @@
-# JWT
+# Ferramentas
 
 * [JWT](https://jwt.io/)
+* [Packagist](https://packagist.org/)
 
 # Laravel
 
