@@ -1,6 +1,12 @@
 # Laravel
 
+* [Laravel](https://laravel.com)
 * [Laravel Artisan Cheatsheet](https://artisan.page/)
+
+# Laravel Nova
+
+* [Laravel Nova](https://nova.laravel.com)
+* [Nova Packages](https://novapackages.com/)
 
 # UI
 
