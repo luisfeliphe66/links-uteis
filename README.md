@@ -12,3 +12,4 @@
 * [Flowrift](https://flowrift.com/w/)
 * [Tailwindui](https://tailwindui.com/)
 * [Tailwind CSS](https://tailwindcss.com/)
+* [Tailwind Elements](https://tailwind-elements.com/)
