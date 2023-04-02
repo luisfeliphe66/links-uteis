@@ -30,3 +30,4 @@
 * [Tailwindui](https://tailwindui.com/)
 * [Tailwind CSS](https://tailwindcss.com/)
 * [Tailwind Elements](https://tailwind-elements.com/)
+* [CoreUI](https://coreui.io/)
