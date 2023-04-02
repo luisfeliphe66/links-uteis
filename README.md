@@ -39,4 +39,5 @@
 * [AdminLTE](https://adminlte.io/)
 * [Boostrap](https://getbootstrap.com/)
 * [Vue.js](https://vuejs.org/)
+* [Next.js](https://nextjs.org/)
 * [Astro](https://astro.build/)
