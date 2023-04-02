@@ -43,3 +43,4 @@
 * [Vue.js](https://vuejs.org/)
 * [Next.js](https://nextjs.org/)
 * [Astro](https://astro.build/)
+* [Clipboard JS](https://clipboardjs.com/)
