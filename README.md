@@ -4,6 +4,7 @@
 * [Packagist](https://packagist.org/)
 * [Composer](https://getcomposer.org/)
 * [Git](https://git-scm.com/)
+* [Repman](https://repman.io/)
 
 # Laravel
 
