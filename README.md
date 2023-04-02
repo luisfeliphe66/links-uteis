@@ -13,7 +13,7 @@
 * [Laravel Nova](https://nova.laravel.com)
 * [Nova Packages](https://novapackages.com/)
 
-# FrontEnd
+# Frontend
 
 * [AlpineJS](https://alpinejs.dev/)
 * [Font Awesome](https://fontawesome.com/)
