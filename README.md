@@ -7,6 +7,9 @@
 
 * [Laravel](https://laravel.com)
 * [Laravel Artisan Cheatsheet](https://artisan.page/)
+* [Splade](https://splade.dev/)
+* [InertiaJS](https://inertiajs.com/)
+* [Laravel Livewire](https://laravel-livewire.com/)
 
 # Laravel Nova
 
@@ -33,3 +36,4 @@
 * [CoreUI](https://coreui.io/)
 * [AdminLTE](https://adminlte.io/)
 * [Boostrap](https://getbootstrap.com/)
+* [Vue.js](https://vuejs.org/)
